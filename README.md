@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:8EC5FC,100:E0C3FC&height=160&section=header&text=Heejin%20Jeong&fontAlignY=55&fontColor=ffffff&fontSize=52)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=%20)
+
 
 # Hello, I'm Heejin Jeong! 👋
 
