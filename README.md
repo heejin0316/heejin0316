@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heejin0316)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejinjeong/)
 [![Blog](https://img.shields.io/badge/Blog(Tistory)-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://ewhacse.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-euphoria02mint%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euphoria02mint@gmail.com)
+[![Email](https://img.shields.io/badge/Email-euphoria02mint%40gmail.com-FBC2EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euphoria02mint@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion_Portfolio-FBC2EB?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/25df3eadc78d80b7811de62a91a7845c)
 [![Demo Videos](https://img.shields.io/badge/Demo_Videos-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/studio.heelab?igsh=NHBmdmJwN3dodHN1&utm_source=qr)
 
@@ -41,10 +41,6 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 ![React_Native](https://img.shields.io/badge/React_Native-A6C1EE?style=for-the-badge&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-FFDEE9?style=for-the-badge&logo=expo&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-8B48E6?style=for-the-badge)
-![TanStack_Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
 
 ### Backend & Programming
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
