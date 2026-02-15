@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=190&section=header&text=%20)
-# Hello, I'm Heejin Jeong! 👋
+# 🥨 Hello, I'm Heejin Jeong! 🥨
 
 <!-- Quick Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heejin0316)
@@ -9,15 +9,15 @@
 [![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.site/...)
 [![Demo Videos](https://img.shields.io/badge/Demo_Videos-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/...)
 
-## About Me
+## 🍅 About Me
 I'm currently an undergraduate student at Ewha Womans University, and I'm interested in designing and building user experiences with a focus on frontend development.  
 In particular, I'm passionate about creating interactions that users can understand and trust from an HCI perspective, and I'm exploring how AI/ML can be applied by actively studying them.  
 I'm also an active member of GDG and Eoruon (an AI community), where I continuously expand my skills through projects and study groups.
 
-## Awards
+## 🏆 Awards
 - **BMW Korea Foundation – Young Innovator Dream Project 2025**: **Honorable Mention (Top 10)**, showcased at the Seongsu pop-up exhibition.
 
-## Projects
+## 🐟 Projects
 - **EcoTrail (Android App)**: A React Native (Expo) app that helps drivers understand and reduce tire wear particles (TWP) by combining **GPS-based driving data**, **weather/road-condition APIs**, and an **in-app calculation engine**, then visualizing results with an intuitive dashboard (e.g., “cigarettes” / “trees” equivalents).  
   Tech: React Native, TypeScript, Firebase, OpenWeatherMap, Overpass API | [GitHub](https://github.com/heejin0316/EcotrailApp) · [Expo Build](https://expo.dev/accounts/heejin0316/projects/tyre-dust-mvp/builds/1b832b74-7a1c-4613-9532-0c74e436b527)
 
@@ -30,7 +30,7 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 - **WeWha (Community for Ewha Students & International Students)**: A community service to help Korean and international students connect and settle in. I worked on **backend signup APIs**, defined a **consistent error response format**, and contributed to **UI/UX design** for matching flows.  
   Tech: Spring Boot, MySQL (RDS), AWS EC2 | [GitHub](https://github.com/ECC-WeWha/BackEnd) · [Website](https://wewha.netlify.app/)
 
-## Tech Stack
+## 🐝 Tech Stack
 
 ### Frontend & App Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,6 +65,6 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Contact
+## 💌 Contact me
 - Email: euphoria02mint@gmail.com
 - LinkedIn: https://www.linkedin.com/in/heejinjeong/
