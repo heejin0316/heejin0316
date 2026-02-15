@@ -1,12 +1,32 @@
-# Hello, I'm Heejin Jeong!
+# Hello, I'm Heejin Jeong! 👋
+
+<!-- Quick Links (상단 고정) -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heejin0316)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejinjeong/)
+[![Blog](https://img.shields.io/badge/Blog(Tistory)-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://ewhacse.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-euphoria02mint%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euphoria02mint@gmail.com)
 
 ## About Me
-
 I'm currently an undergraduate student at Ewha Womans University, and I'm interested in designing and building user experiences with a focus on frontend development.  
 In particular, I'm passionate about creating interactions that users can understand and trust from an HCI perspective, and I'm exploring how AI/ML can be applied by actively studying them.  
 I'm also an active member of GDG and Eoruon (an AI community), where I continuously expand my skills through projects and study groups.
 
-## Tech Stack
+## 🎯 Projects
+- **EcoTrail (Android App)**: A React Native (Expo) app that helps drivers understand and reduce tire wear particles (TWP) by combining **GPS-based driving data**, **weather/road-condition APIs**, and an **in-app calculation engine**, then visualizing results with an intuitive dashboard (e.g., “cigarettes” / “trees” equivalents).  
+  Tech: React Native, TypeScript, Firebase, OpenWeatherMap, Overpass API | [GitHub](https://github.com/heejin0316/EcotrailApp) · [Expo Build](https://expo.dev/accounts/heejin0316/projects/tyre-dust-mvp/builds/1b832b74-7a1c-4613-9532-0c74e436b527)
+
+- **EcoTrail (Interactive Driving Challenge)**: A 60-second Unity3D experience showcased at **BMW YIDP 2025 Seongsu pop-up**, designed to make environmental impact from driving habits tangible through a **data-driven scoring system** and **5-level feedback cards** (Green → Red), with keyboard/gamepad support.  
+  Tech: Unity 3D, C#, New Input System
+
+- **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts. *(Steam release pending)*  
+  Tech: Unity2D, C# | [GitHub](https://github.com/muffinhead03/OrkaGame2025_1)
+
+- **WeWha (Community for Ewha Students & International Students)**: A community service to help Korean and international students connect and settle in. I worked on **backend signup APIs**, defined a **consistent error response format**, and contributed to **UI/UX design** for matching flows.  
+  Tech: Spring Boot, MySQL (RDS), AWS EC2 | [GitHub](https://github.com/ECC-WeWha/BackEnd) · [Website](https://wewha.netlify.app/)
+
+<!-- Tech Stack는 길어지니까 접기 -->
+<details>
+  <summary><b>🧩 Tech Stack</b> (click to expand)</summary>
 
 ### Frontend & App Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,18 +61,9 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## Projects
+</details>
 
-- **EcoTrail (Android App)**: A React Native (Expo) app that helps drivers understand and reduce tire wear particles (TWP) by combining **GPS-based driving data**, **weather/road-condition APIs**, and an **in-app calculation engine**, then visualizing results with an intuitive dashboard (e.g., “cigarettes” / “trees” equivalents).  
-  Tech: React Native, TypeScript, Firebase, OpenWeatherMap, Overpass API | [GitHub](https://github.com/heejin0316/EcotrailApp) · [Expo Build](https://expo.dev/accounts/heejin0316/projects/tyre-dust-mvp/builds/1b832b74-7a1c-4613-9532-0c74e436b527)
-
-- **EcoTrail (Interactive Driving Challenge)**: A 60-second Unity3D experience showcased at **BMW YIDP 2025 Seongsu pop-up**, designed to make environmental impact from driving habits tangible through a **data-driven scoring system** and **5-level feedback cards** (Green → Red), with keyboard/gamepad support.  
-  Tech: Unity 3D, C#, New Input System
-
-- **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts. *(Steam release pending)*  
-  Tech: Unity2D, C# | [GitHub](https://github.com/muffinhead03/OrkaGame2025_1)
-
-- **WeWha (Community for Ewha Students & International Students)**: A community service to help Korean and international students connect and settle in. I worked on **backend signup APIs**, defined a **consistent error response format**, and contributed to **UI/UX design** for matching flows.  
-  Tech: Spring Boot, MySQL (RDS), AWS EC2 | [GitHub](https://github.com/ECC-WeWha/BackEnd) · [Website](https://wewha.netlify.app/)
-
-
+## Contact
+- Email: euphoria02mint@gmail.com
+- Blog: https://ewhacse.tistory.com/
+- LinkedIn: https://www.linkedin.com/in/heejinjeong/
