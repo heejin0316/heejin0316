@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejinjeong/)
 [![Blog](https://img.shields.io/badge/Blog(Tistory)-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://ewhacse.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-euphoria02mint%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euphoria02mint@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion_Portfolio-FBC2EB?style=for-the-badge&logo=notion&logoColor=white)](https://notion.site/...)
-[![Demo Videos](https://img.shields.io/badge/Demo_Videos-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/...)
+[![Notion](https://img.shields.io/badge/Notion_Portfolio-FBC2EB?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/25df3eadc78d80b7811de62a91a7845c)
+[![Demo Videos](https://img.shields.io/badge/Demo_Videos-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/studio.heelab?igsh=NHBmdmJwN3dodHN1&utm_source=qr)
 
 ## 🍅 About Me
 I'm currently an undergraduate student at Ewha Womans University, and I'm interested in designing and building user experiences with a focus on frontend development.  
