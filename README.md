@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=190&section=header&text=%20)
-
 # Hello, I'm Heejin Jeong! 👋
 
 <!-- Quick Links -->
