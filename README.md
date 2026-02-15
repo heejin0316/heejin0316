@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heejinjeong/)
 [![Blog](https://img.shields.io/badge/Blog(Tistory)-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://ewhacse.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-euphoria02mint%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:euphoria02mint@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.site/...)
-[![Demo Videos](https://img.shields.io/badge/Demo_Videos-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/...)
+[![Notion](https://img.shields.io/badge/Notion_Portfolio-FBC2EB?style=for-the-badge&logo=notion&logoColor=white)](https://notion.site/...)
+[![Demo Videos](https://img.shields.io/badge/Demo_Videos-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/...)
 
 ## 🍅 About Me
 I'm currently an undergraduate student at Ewha Womans University, and I'm interested in designing and building user experiences with a focus on frontend development.  
@@ -37,9 +37,9 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-A6C1EE?style=for-the-badge&logo=react&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-A6C1EE?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-FFDEE9?style=for-the-badge&logo=expo&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-8B48E6?style=for-the-badge)
@@ -63,7 +63,7 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FBC2EB?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 💌 Contact me
 - Email: euphoria02mint@gmail.com
