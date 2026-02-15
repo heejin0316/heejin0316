@@ -24,6 +24,9 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 - **EcoTrail (Interactive Driving Challenge)**: A 60-second Unity3D experience showcased at **BMW YIDP 2025 Seongsu pop-up**, designed to make environmental impact from driving habits tangible through a **data-driven scoring system** and **5-level feedback cards** (Green → Red), with keyboard/gamepad support.  
   Tech: Unity 3D, C#, New Input System
 
+- **Level Crossing Classification (Kaggle)**: Built an end-to-end CV pipeline to detect **stopped vehicles on a railway level crossing**. Used a **7-channel input** (t-2s frame + t frame + rail segmentation mask) and customized **ResNet18** to regress **15 targets** (up to 3 vehicles: existence probability + bounding box parameters). Achieved **Team Public Score 0.09764** and **Individual Public/Private 0.13258 / 0.16120**.  
+  Tech: Python, PyTorch, Torchvision (ResNet18), OpenCV, Pandas/NumPy, scikit-learn, Pillow (PIL), tqdm | [GitHub (Personal)](https://github.com/heejin0316/Rail-Crossing-AI-Project) · [GitHub (Team)](https://github.com/GDGoC-Ewha-AI-Team1/AI-model_ResNet18-7ch) · [Kaggle](https://www.kaggle.com/competitions/vehicle-stopped-on-a-level-crossing)  
+
 - **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts. *(Steam release pending)*  
   Tech: Unity2D, C# | [GitHub](https://github.com/muffinhead03/OrkaGame2025_1)
 
