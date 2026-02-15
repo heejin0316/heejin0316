@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=800&center=true&vCenter=true&width=760&lines=Heejin+Jeong;Frontend+%C3%97+HCI+%C3%97+AI;Building+human-centered+experiences" />
-</p>
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:8EC5FC,100:E0C3FC&height=160&section=header&text=Heejin%20Jeong&fontAlignY=55&fontColor=ffffff&fontSize=52)
 
 # Hello, I'm Heejin Jeong! 👋
 
