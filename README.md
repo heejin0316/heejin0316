@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=800&center=true&vCenter=true&width=760&lines=Heejin+Jeong;Frontend+%C3%97+HCI+%C3%97+AI;Building+human-centered+experiences" />
+</p>
+
+
 # Hello, I'm Heejin Jeong! 👋
 
 <!-- Quick Links -->
