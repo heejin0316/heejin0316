@@ -27,6 +27,9 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 - **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts.  
   Tech: Unity2D, C# | [GitHub](https://github.com/muffinhead03/OrkaGame2025_1) · [Steam](https://store.steampowered.com/app/3975970/PAN/)
 
+- **SoundSight**: A React Native (Expo) accessibility app for **Google Solution Challenge 2026** that converts the auditory emotions of video content into real-time **visual overlays** for deaf/HoH viewers. I owned the **frontend & emotion-to-visual mapping layer**: a custom video player that reads a Gemini-generated emotion timeline and renders synchronized **mood glow** (tension/sorrow/uplift/warmth → color-coded screen border) and a **dynamic event bar** for sudden drops, swells, and jump-scares. The backend runs a 3-layer AI pipeline — librosa feature extraction → Gemini multimodal inference → Firebase Storage.  
+  Tech: React Native, TypeScript, Expo, Firebase, Gemini API, Django, Celery, librosa, Whisper | [GitHub](https://github.com/GDGoC-Ewha/soundsight)
+  
 - **WhiteDay — Illustrated Letter Delivery** (Web App): A serverless SPA where users **draw a handwritten picture on a canvas**, pair it with a randomly selected heartfelt message, and share it via a **unique Firestore-generated link**. Recipients unlock the letter through a **5-step interactive quiz**, then view the composited letter card and save it as an image. A public **card gallery** showcases shared drawings from all users.  
   Tech: Vanilla JavaScript, HTML5 Canvas API, Firebase Firestore, Firebase Hosting | [GitHub](https://github.com/heejin0316/WhiteDayProject) · [Live](https://whiteday.web.app/)
 
