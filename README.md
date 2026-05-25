@@ -24,7 +24,7 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 - **EcoTrail (Interactive Driving Challenge)**: A 60-second Unity3D experience showcased at **BMW YIDP 2025 Seongsu pop-up**, designed to make environmental impact from driving habits tangible through a **data-driven scoring system** and **5-level feedback cards** (Green → Red), with keyboard/gamepad support.  
   Tech: Unity 3D, C#, New Input System
 
-  - **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts.  
+- **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts.  
   Tech: Unity2D, C# | [GitHub](https://github.com/muffinhead03/OrkaGame2025_1) · [Steam](https://store.steampowered.com/app/3975970/PAN/)
 
 - **WhiteDay — Illustrated Letter Delivery** (Web App): A serverless SPA where users **draw a handwritten picture on a canvas**, pair it with a randomly selected heartfelt message, and share it via a **unique Firestore-generated link**. Recipients unlock the letter through a **5-step interactive quiz**, then view the composited letter card and save it as an image. A public **card gallery** showcases shared drawings from all users.  
