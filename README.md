@@ -30,8 +30,8 @@ I'm also an active member of GDG and Eoruon (an AI community), where I continuou
 - **Pan!**: A narrative-driven Unity2D game featuring branching dialogues, minigames, and multi-endings. I implemented the **story flow & scene transitions** and built a robust **multi-language system** (KR/EN/ZH/KZ) with stable rendering via TextMeshPro + fallback fonts. *(Steam release pending)*  
   Tech: Unity2D, C# | [GitHub](https://github.com/muffinhead03/OrkaGame2025_1)
 
-- **WeWha (Community for Ewha Students & International Students)**: A community service to help Korean and international students connect and settle in. I worked on **backend signup APIs**, defined a **consistent error response format**, and contributed to **UI/UX design** for matching flows.  
-  Tech: Spring Boot, MySQL (RDS), AWS EC2 | [GitHub](https://github.com/ECC-WeWha/BackEnd) · [Website](https://wewha.netlify.app/)
+- **WhiteDay — Illustrated Letter Delivery** (Web App): A serverless SPA where users **draw a handwritten picture on a canvas**, pair it with a randomly selected heartfelt message, and share it via a **unique Firestore-generated link**. Recipients unlock the letter through a **5-step interactive quiz**, then view the composited letter card and save it as an image. A public **card gallery** showcases shared drawings from all users.  
+  Tech: Vanilla JavaScript, HTML5 Canvas API, Firebase Firestore, Firebase Hosting | [GitHub](https://github.com/heejin0316/WhiteDayProject) · [Live](https://whiteday.web.app/)
 
 ## 🐝 Tech Stack
 
