@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FBC2EB,100:A6C1EE&height=190&section=header&text=%20)
-# 🥨 Heejin Jeong — Frontend × HCI × AI 🥨
+# 🥨 Heejin Jeong — Frontend × HCI 🥨
 
 <!-- Quick Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heejin0316)
